@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (Opt-1) (GB)
+http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/1200px-CGTN-America_Logo.png" group-title="24/7 WORLD NEWS",CGTN America (CN)
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="24/7 WORLD NEWS",CNN International (Opt-1) (US)
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA",C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ltcivXp.png" group-title="USA",C-SPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cyU21ML.png" group-title="USA",C-SPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="USA",CNN (Opt-1)
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8?fluxustv.m3u8
